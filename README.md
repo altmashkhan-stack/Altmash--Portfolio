@@ -23,15 +23,11 @@ A premium personal portfolio website designed and developed for Devender—a Ful
 
 > A modern portfolio crafted to leave a strong first impression with smooth transitions, responsive layouts, elegant typography, and a premium user experience.
 
-### 📸 Screenshots
-<p align="center">
-  <img src="assets/images/thumbs/preview-hero.jpg" alt="Hero Preview" width="48%" />
-  <img src="assets/images/thumbs/preview-footer.jpg" alt="Footer Preview" width="48%" />
-</p>
+
 
 ### 🔗 Portfolio URLs
-- **Live Site**: [https://devendhargopagoni.netlify.app/](https://devendhargopagoni.netlify.app/)
-- **GitHub Repository**: [https://github.com/devendharoff/devendhar-portfolio-minimal](https://github.com/devendharoff/devendhar-portfolio-minimal)
+- **Live Site**: [https://devendhargopagoni.netlify.app/](https://altmashkhan-stack.github.io/Altmash--Portfolio/)
+- **GitHub Repository**: [https://github.com/devendharoff/devendhar-portfolio-minimal](https://github.com/altmashkhan-stack/Altmash--Portfolio.git)
 
 ---
 
@@ -105,10 +101,10 @@ Then visit: `http://localhost:8000`
 
 ## 🤝 Connect Platforms
 
-*   **GitHub**: [@devendharoff](https://github.com/devendharoff)
-*   **LinkedIn**: [Devender Goud](https://www.linkedin.com/in/devender-goud-033875338/)
-*   **Instagram**: [@devendharoff](https://www.instagram.com/devendharoff/?hl=en)
-*   **Connects AI**: [@connects.ai](https://www.instagram.com/connects.ai)
+*   **GitHub**: [@devendharoff](https://github.com/altmashkhan-stack)
+*   **LinkedIn**: [Devender Goud](https://www.linkedin.com/in/altmash-khan-38a92a443?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+*   **Instagram**: [@devendharoff](https://www.instagram.com/khn_altmashh/)
+*   **Connects AI**: [@connects.ai](https://www.instagram.com/khn_altmashh/)
 
 ---
 
