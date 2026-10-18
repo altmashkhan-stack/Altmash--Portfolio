@@ -26,8 +26,8 @@ A premium personal portfolio website designed and developed for Devender—a Ful
 
 
 ### 🔗 Portfolio URLs
-- **Live Site**: [https://devendhargopagoni.netlify.app/](https://altmashkhan-stack.github.io/Altmash--Portfolio/)
-- **GitHub Repository**: [https://github.com/devendharoff/devendhar-portfolio-minimal](https://github.com/altmashkhan-stack/Altmash--Portfolio.git)
+- **Live Site**: [https://altmashkhan-stack.github.io/Altmash--Portfolio/](https://altmashkhan-stack.github.io/Altmash--Portfolio/)
+- **GitHub Repository**: [https://github.com/altmashkhan-stack/Altmash--Portfolio.git](https://github.com/altmashkhan-stack/Altmash--Portfolio.git)
 
 ---
 
@@ -101,9 +101,9 @@ Then visit: `http://localhost:8000`
 
 ## 🤝 Connect Platforms
 
-*   **GitHub**: [@devendharoff](https://github.com/altmashkhan-stack)
-*   **LinkedIn**: [Devender Goud](https://www.linkedin.com/in/altmash-khan-38a92a443?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-*   **Instagram**: [@devendharoff](https://www.instagram.com/khn_altmashh/)
+*   **GitHub**: [@altmashkhan-stack](https://github.com/altmashkhan-stack)
+*   **LinkedIn**: [Altmash khan](https://www.linkedin.com/in/altmash-khan-38a92a443?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+*   **Instagram**: [@khn_altmashh](https://www.instagram.com/khn_altmashh/)
 *   **Connects AI**: [@connects.ai](https://www.instagram.com/khn_altmashh/)
 
 ---
