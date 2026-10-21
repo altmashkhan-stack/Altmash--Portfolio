@@ -7,10 +7,10 @@
 A premium personal portfolio website designed and developed for Devender—a Full-Stack Web Developer and UI/UX-focused Product Builder. Built with modern web standards, fluid animations, and a responsive dark aesthetic.
 
 <p>
-  <a href="https://devendhargopagoni.netlify.app/" target="_blank">
+  <a href="https://altmashkhan-stack.github.io/Altmash--Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
-  <a href="https://github.com/devendharoff/devendhar-portfolio-minimal" target="_blank">
+  <a href="https://github.com/altmashkhan-stack" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
   </a>
 </p>
