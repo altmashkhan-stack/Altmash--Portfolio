@@ -77,8 +77,7 @@ devendhar-portfolio-minimal/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/devendharoff/devendhar-portfolio-minimal.git
-cd devendhar-portfolio-minimal
+git clone https://github.com/altmashkhan-stack/Altmash--Portfolio.git
 ```
 
 ### 2. Run Locally
