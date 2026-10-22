@@ -7,7 +7,7 @@
 A premium personal portfolio website designed and developed for Devender—a Full-Stack Web Developer and UI/UX-focused Product Builder. Built with modern web standards, fluid animations, and a responsive dark aesthetic.
 
 <p>
-  <a href="https://altmashkhan-stack.github.io/Altmash--Portfolio/" target="_blank">
+  <a href="https://altmashkhan-stack.github.io/Altmash-Full-Stack-Developer./" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/altmashkhan-stack" target="_blank">
@@ -26,7 +26,7 @@ A premium personal portfolio website designed and developed for Devender—a Ful
 
 
 ### 🔗 Portfolio URLs
-- **Live Site**: [https://altmashkhan-stack.github.io/Altmash--Portfolio/](https://altmashkhan-stack.github.io/Altmash--Portfolio/)
+- **Live Site**: [https://altmashkhan-stack.github.io/Altmash--Portfolio/](https://altmashkhan-stack.github.io/Altmash-Full-Stack-Developer./)
 - **GitHub Repository**: [https://github.com/altmashkhan-stack/Altmash--Portfolio.git](https://github.com/altmashkhan-stack/Altmash--Portfolio.git)
 
 ---
