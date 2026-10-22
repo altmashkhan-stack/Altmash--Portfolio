@@ -27,7 +27,7 @@ A premium personal portfolio website designed and developed for Devender—a Ful
 
 ### 🔗 Portfolio URLs
 - **Live Site**: [https://altmashkhan-stack.github.io/Altmash-Full-Stack-Developer./](https://altmashkhan-stack.github.io/Altmash-Full-Stack-Developer./)
-- **GitHub Repository**: [https://github.com/altmashkhan-stack/Altmash--Portfolio.git](https://github.com/altmashkhan-stack/Altmash--Portfolio.git)
+- **GitHub Repository**: [https://github.com/altmashkhan-stack/Altmash-Full-Stack-Developer..git](https://github.com/altmashkhan-stack/Altmash-Full-Stack-Developer..git)
 
 ---
 
